@@ -15,8 +15,8 @@ int main()
 
     game.set_name (input);
 
-    while (game.Game_state()) {
-        game.run ();
+    while (game.Game_state()) { /// checks the game state
+        game.run (); /// runs the  game
     }
 
     return 0;
