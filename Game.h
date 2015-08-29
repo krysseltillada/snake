@@ -1,11 +1,10 @@
 #ifndef GAME_HEADER
 #define GAME_HEADER
 
-#include <conio.h>
-#include <cstdlib>
-#include <ctime>
-#include <string>
-#include <iostream>
+#include <conio.h> /// _getch ()
+#include <cstdlib> /// rand()
+#include <string> /// std::string
+#include <iostream> /// std::cout; std::endl;
 
 /// interface file
 
