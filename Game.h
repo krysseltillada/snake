@@ -17,7 +17,6 @@ public:
 
 private:
     bool if_GameOver = false;
-    std::string name;
 
     int taily[100], tailx[100], ntail = 0;
 
